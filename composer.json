@@ -1,11 +1,5 @@
 {
     "require": {
-        "guzzlehttp/guzzle": "^7.9",
-        "shipstream/ups-rest-php-sdk": "^2.3"
-    },
-    "config": {
-        "allow-plugins": {
-            "php-http/discovery": true
-        }
+        "guzzlehttp/guzzle": "^7.9"
     }
 }
