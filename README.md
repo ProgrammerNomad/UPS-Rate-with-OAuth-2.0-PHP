@@ -18,7 +18,7 @@ This PHP code demonstrates how to calculate UPS shipping rates using the UPS API
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/ups-rate-calculator.git`
+1. Clone the repository: `git clone https://github.com/ProgrammerNomad/UPS-Rate-with-OAuth-2.0-PHP.git`
 2. Install dependencies: `composer install`
 3. Configure your UPS API credentials:
    - **Securely store your Client ID and Client Secret.**  Consider using environment variables or a secure configuration file.
